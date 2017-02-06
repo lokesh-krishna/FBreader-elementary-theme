@@ -1,7 +1,7 @@
 # FBReader elementary Icon Theme
 An icon theme for FBReader that makes it appear closer to a native app on elementary OS
 
-<img src="/elementary-fbreader.png" align="centre"
+<img src="/after.png" align="centre"
 width="800" hspace="10" vspace="10">
 
 # Installation
